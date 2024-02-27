@@ -33,7 +33,7 @@ Follow these simple steps to get the COVID Vaccination Booking System up and run
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/abhinivesh3/Covid-Vaccine-Booking
+   git clone https://github.com/VishalShukla695/Covid-Vaccination-Booking
    ```
 
 2. **Install Dependencies:**
